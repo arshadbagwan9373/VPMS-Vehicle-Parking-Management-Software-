@@ -55,7 +55,7 @@ Whether you manage a small lot or a multi-category facility, this system gives y
   - 🛵 **2-Wheeler** slots
   - 🚗 **4-Wheeler** slots
   - 🚛 **Heavy Vehicle** slots
-- Instant visual feedback on parking capacity
+- Instant visual of parking capacity
 
 ### 🚘 Vehicle Entry
 - Register incoming vehicles with:
